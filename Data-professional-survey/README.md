@@ -6,7 +6,7 @@ The goal of this project is to analyze and visualize data collected from individ
 
 ## Results
 
-|![Dashboard](./Dashboard-PowerBI.png)|
+|![Dashboard](./images/Dashboard-PowerBI.png)|
 | :--: |
 | *Dashboard* |
 
@@ -31,7 +31,7 @@ There are 11 important fields here:
 
 * Q6 - How Happy are you in your Current Position with the following? (Salary)
 
-* Q6 - How Happy are you in your Current Position with the following? (Work/Life)
+* Q6 - How Happy are you in your Current Position with the following? (Work/Life Balance)
 
 * Q7 - How difficult was it for you to break into Data?
 

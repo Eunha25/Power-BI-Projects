@@ -18,7 +18,8 @@ Before visualizing the data in Power BI, it is important to ensure the data is p
 4. Interaction and Filters: Interactivity features were implemented to enable users to explore the data and filter visualizations based on different criteria.
 5. Dashboard Creation: Visualizations were organized into a dashboard layout, allowing users to view multiple visualizations at once and gain a comprehensive understanding of the data.
 
-
+## Projects
+1. [Professional Survey Project](./Data-professional-survey/README.md)
 
 
 
