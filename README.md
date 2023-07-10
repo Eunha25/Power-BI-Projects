@@ -1,5 +1,9 @@
 # Power BI Dashboard - Data Visualization
 
+|![Dashboard](./Data-professional-survey/images/Dashboard-PowerBI.png)|
+| :--: |
+| *Dashboard* |
+
 ## Project Overview
 The goal of these projects is to analyze and visualize data collected from different data sources. The collected data will be transformed into meaningful insights and presented in an interactive and visually appealing manner using Power BI.
 
